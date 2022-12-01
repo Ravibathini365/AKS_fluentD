@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  fluentd-helm:
+  - apiVersion: v2
+    appVersion: "1.16.0"
+    created: 2021-08-21T10:02:51.251682Z
+    description: A Helm chart for Kubernetes
+    digest: 2b9f991f65610e05368ebcf68842b406c33e381196cf3d12415a0f12974623e3
+    name: fluentd-helm
+    urls:
+    - https://vscojfrog.vsazure.com/artifactory/vsc-fluentd-helm/fluentd-helm/fluentd-helm-0.1.0.tgz
+    version: "0.1.0"
+    type: application
+generated: 2021-08-21T10:02:51.251706Z
